@@ -1,0 +1,20 @@
+body {
+    background: rgb(255, 237, 72);
+    text-align: center;
+}
+
+h1 {color: rgb(0, 0, 0);}
+
+h3 {color: rgb(30, 21, 0)}
+
+p {color:rgb(51, 44, 0)}
+
+img {
+    width: 250px;
+}
+
+.my-daffodil {
+  max-width: 800px; /* Limits the width of your paragraph to a readable size */
+  margin: 0 auto;    /* Centers the container horizontally on the screen */
+  padding: 0 20px;   /* Adds breathing room so text doesn't touch the screen edges on mobile */
+}
