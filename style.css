@@ -14,7 +14,7 @@ img {
 }
 
 .my-daffodil {
-  max-width: 800px; /* Limits the width of your paragraph to a readable size */
-  margin: 0 auto;    /* Centers the container horizontally on the screen */
-  padding: 0 20px;   /* Adds breathing room so text doesn't touch the screen edges on mobile */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
